@@ -9,7 +9,7 @@ export function App() {
     <div>
       <Header />
       <Post 
-        author="Yuri Soa" 
+        author="Yuri Soares" 
         content="Lorem insptus ands astu riosn dalisetr amaunto" 
       />
     </div>
